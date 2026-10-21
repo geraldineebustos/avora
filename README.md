@@ -5,8 +5,8 @@
 
 Integrantes:
 
-- {bustos,geraldine} | [@geraldineebustos](https://github.com/username)
-- {troncoso, malena } | [@username](https://github.com/username)
+- {bustos, geraldine} | [@geraldineebustos](https://github.com/username)
+- {troncoso, malena | [@troncosomalena](https://github.com/username)
 
 Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
