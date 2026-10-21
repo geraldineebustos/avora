@@ -1,25 +1,23 @@
-# {nombre del proyecto}
+# {avora}
 
 **Descripción:**
-{breve explicación del proyecto}
+{ avora es una consultora tecnologica dedicada al desarrollo de paginas web y soluciones digitales para emprendimientos. Roselle es nuestra app para una floreria que ofrece una solucion digital que facilita la gestion y organizacion del negocio. }
 
 Integrantes:
 
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
+- {bustos,geraldine} | [@geraldineebustos](https://github.com/username)
+- {troncoso, malena } | [@username](https://github.com/username)
 
 Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
 ## Elevator's Pitch
 
-- Para {cliente objetivo}
-- Quienes {necesidad y/o oportunidad}
-- El {nombre del proyecto} es un {categoría del producto}
-- Que {beneficio clave, razón para comprarlo}
-- Diferente a {otras soluciones existentes, por ejemplo...}
-- Nuestro proyecto {declaración de la diferencia}.
+- Para { emprendedores que necesitan tener presencia en internet y mostrar sus productos de manera mas profesional y de manera organizada }
+- Quienes { necesiten llegar a mas clientes, hacer crecer su emprendimiento pero no cuenten con una pagina web propia o no tengan los conocimientos para desarrollarla }
+- El { roselle } es un { app web para una floreria }
+- Que { permite mostrar sus productos de forma atractiva, facilitar los pedidos y llegar a mas clientes a traves de internet }
+- Diferente a { las redes sociales porque ofrece un sitio web propio, personalizado y adaptado a las necesidades de cada emprendimiento }
+- Nuestro proyecto { se destaca por brindar soluciones accesibles y pensadas para cada negocio, permitiendo que los emprendedores tengan su propio espacio digital sin depender unicamente de redes sociales }.
 
 ## Requisitos
 
