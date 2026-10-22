@@ -1,7 +1,7 @@
-# {avora}
+# Roselle
 
 **Descripción:**
-{ avora es una consultora tecnologica dedicada al desarrollo de paginas web y soluciones digitales para emprendimientos. Roselle es nuestra app para una floreria que ofrece una solucion digital que facilita la gestion y organizacion del negocio. }
+{ roselle es una consultora tecnologica dedicada al desarrollo de paginas web y soluciones digitales para emprendimientos. Roselle es nuestra app para una floreria que ofrece una solucion digital que facilita la gestion y organizacion del negocio. }
 
 Integrantes:
 
